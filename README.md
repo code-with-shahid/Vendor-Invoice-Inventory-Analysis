@@ -9,7 +9,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vendor-invoice-inventory-analysis-6cos6dldecjn6arpcehzjd.streamlit.app/)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-🌐 **Live Application Web Portal**: [vendor-invoice-inventory-analysis-6cos6dldecjn6arpcehzjd.streamlit.app](https://vendor-invoice-inventory-analysis-6cos6dldecjn6arpcehzjd.streamlit.app/)
+🌐 **Live Application Web Portal**: [vendor-invoice-inventory-analysis-6ljbnxftgqnmgywzckjy2x.streamlit.app/](https://vendor-invoice-inventory-analysis-6ljbnxftgqnmgywzckjy2x.streamlit.app/)
 
 ---
 
@@ -149,11 +149,11 @@ Vendor-Invoice-Inventory-Analysis/
 
 ### 🌐 Access Live Deployed App Online
 No local installation required! Access the live web application on Streamlit Community Cloud:  
-👉 **[https://vendor-invoice-inventory-analysis-6cos6dldecjn6arpcehzjd.streamlit.app/](https://vendor-invoice-inventory-analysis-6cos6dldecjn6arpcehzjd.streamlit.app/)**
+👉 **[https://vendor-invoice-inventory-analysis-6ljbnxftgqnmgywzckjy2x.streamlit.app/](https://vendor-invoice-inventory-analysis-6ljbnxftgqnmgywzckjy2x.streamlit.app/)**
 
 ### 1. Clone the Repository (For Local Development)
 ```bash
-git clone https://github.com/proswarnali24/Vendor-Invoice-Inventory-Analysis.git
+git clone https://github.com/code-with-shahid/Vendor-Invoice-Inventory-Analysis.git
 cd Vendor-Invoice-Inventory-Analysis
 ```
 
@@ -182,4 +182,4 @@ Open your web browser and navigate to `http://localhost:8501`.
 **Shahid Afridi**  
 Data Analyst & AI Developer  
 🔗 **GitHub**: [@code-with-shahid](https://github.com/code-with-shahid)  
-🔗 **Repository**: [Vendor-Invoice-Inventory-Analysis](https://github.com/proswarnali24/Vendor-Invoice-Inventory-Analysis.git)
+🔗 **Repository**: [Vendor-Invoice-Inventory-Analysis](https://github.com/code-with-shahid/Vendor-Invoice-Inventory-Analysis.git)
